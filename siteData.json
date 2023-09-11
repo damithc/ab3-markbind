@@ -71,14 +71,7 @@
       "src": "Documentation.md",
       "title": "Documentation guide",
       "headings": {
-        "documentation-guide": "Documentation Guide",
-        "installing-markbind": "Installing MarkBind",
-        "updating-documents": "Updating documents",
-        "adopting-to-a-new-fork": "Adopting to a new fork",
-        "deploying-updates": "Deploying updates",
-        "style-guidance": "Style guidance",
-        "diagrams": "Diagrams",
-        "converting-to-pdf": "Converting to PDF"
+        "documentation-guide": "Documentation Guide"
       },
       "headingKeywords": {}
     },
