@@ -21,5 +21,5 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           rootDirectory: './docs'
-          baseUrl: '/tp' # assuming your repo name is tp
+          baseUrl: '/ab3-markbind' # replace with your repo name
           version: '^5.5.2'
